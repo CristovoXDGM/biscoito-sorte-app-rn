@@ -1,0 +1,12 @@
+{
+  "name": "biscoito-sorte-app",
+  "displayName": "biscoito-sorte-app",
+  "expo": {
+    "name": "biscoito-sorte-app",
+    "slug": "biscoito-sorte-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
